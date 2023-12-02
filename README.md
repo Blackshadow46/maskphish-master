@@ -37,7 +37,7 @@
 
 <!-- Author -->
 <p align = "center">
-     <h3 align = "center"> 👨‍💻️ Author : <a href = "https://github.com/BlackShadow46"> jaykali </a> </h3>
+     <h3 align = "center"> 👨‍💻️ Author : <a href = "https://github.com/BlackShadow46"> BlackShadow46 </a> </h3>
 </p>
 
 <br />
